@@ -1,0 +1,2 @@
+# Exclude models files from linguist
+tests/models/** linguist-generated
